@@ -30,7 +30,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Darshan-5002/Darshan-5002/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/Darshan-5002/Darshan-5002/output/github-contribution-grid-snake.svg?v=1" alt="Snake animation" />
 </p>
 
 ---
