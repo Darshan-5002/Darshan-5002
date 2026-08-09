@@ -21,10 +21,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darshan-5002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan-5002&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 ---
 
 ### 📫 Let's Connect
