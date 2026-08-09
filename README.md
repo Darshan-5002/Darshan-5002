@@ -22,7 +22,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-metrics-graph.vercel.app/graph?username=Darshan-5002&theme=tokyo-night" />
+ <img src="https://github-profile-trophy.vercel.app/?username=Darshan-5002&theme=tokyonight&no-frame=true" />
 </p>
 
 ---
