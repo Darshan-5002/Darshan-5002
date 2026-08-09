@@ -1,6 +1,5 @@
 ## Hi there, I'm Darshan 👋
 
----
 
 <p align="center">
   <a href="https://git.io/typing-svg">
