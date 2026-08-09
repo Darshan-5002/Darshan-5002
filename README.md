@@ -45,13 +45,6 @@
   <img src="https://raw.githubusercontent.com/Darshan-5002/Darshan-5002/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
----
-
-### 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Darshan-5002&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
 
 ---
 
