@@ -2,6 +2,12 @@
 
 ---
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Spring+Boot+%7C+Node.js;Always+Learning+New+Things" />
+  </a>
+</p>
+
 ### 👨‍💻 About Me
 
 - 🔭 Current Focus: Building scalable full-stack applications.
